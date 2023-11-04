@@ -8,6 +8,7 @@ export class GitDemo extends cc.Component {
         console.log("gitdemo-first");
         console.log("gitdemo-frist1");
         console.log("gitdemo-frist2");
+        console.log("gitdemo-frist3");
     }
 
     update(deltaTime: number) {}
