@@ -5,6 +5,7 @@ const { ccclass, property } = cc._decorator;
 export class GitDemo extends cc.Component {
     start() {
         console.log("gitdemo-master");
+        console.log("gitdemo-frist");
     }
 
     update(deltaTime: number) {}
