@@ -5,6 +5,7 @@ const { ccclass, property } = cc._decorator;
 export class GitDemo extends cc.Component {
     start() {
         console.log("gitdemo-master");
+        console.log("gitdemo-master-1");
         console.log("gitdemo-first");
         console.log("gitdemo-frist1");
         console.log("gitdemo-frist2");
