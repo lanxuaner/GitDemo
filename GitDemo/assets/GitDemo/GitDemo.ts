@@ -15,6 +15,7 @@ export class GitDemo extends cc.Component {
         console.log("gitdemo-second11");    
         console.log("gitdemo-second00");    
         console.log("gitdemo-second000");    
+        console.log("gitdemo-main1");    
     }
 
     update(deltaTime: number) {}
