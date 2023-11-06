@@ -31,6 +31,7 @@ export class GitDemo extends cc.Component {
         console.log("2023.11.6--third-5");   
         console.log("2023.11.6--main-4");   
         console.log("2023.11.6--third-6");   
+        console.log("2023.11.6--main-6");   
     }
 
     update(deltaTime: number) {}
